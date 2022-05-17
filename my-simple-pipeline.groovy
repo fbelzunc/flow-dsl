@@ -21,7 +21,7 @@ pipeline 'my-simple-pipeline', {
     type = null
   }
 
-  stage 'Stage 1', {
+  stage 'Stage 2', {
     colorCode = '#289ce1'
     completionType = 'auto'
     condition = null
